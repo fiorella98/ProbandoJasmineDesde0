@@ -1,0 +1,8 @@
+dist: bionic
+language: node_js
+install:
+  - npm install --global jasmine stryker-cli typescript @types/jasmine 
+script:
+  - jasmine init
+  - jasmine examples
+  - jasmine

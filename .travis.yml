@@ -5,4 +5,4 @@ install:
 script:
   - jasmine init
   - jasmine examples
-  - jasmine spec/jasmine_examples/*.js"
+  - jasmine spec/jasmine_examples/*.js

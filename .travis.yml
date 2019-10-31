@@ -5,4 +5,4 @@ install:
 script:
   - jasmine init
   - jasmine examples
-  - jasminejas
+  - jasmine
